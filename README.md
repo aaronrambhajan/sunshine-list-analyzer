@@ -8,7 +8,7 @@ Simply locate your current directory to this folder, then type the following in 
 
 The program will prompt you to enter in two years: 
 
-```Enter the starting year: 2006
+```Enter the starting year: 2006\
 Enter the ending year: 2016```
 
 It will then provide you with information about salary increase, people exempted, yearly increase, and other relevant information.
